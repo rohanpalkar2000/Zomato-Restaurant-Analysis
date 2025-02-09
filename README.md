@@ -70,8 +70,9 @@ The dataset contains details on restaurant locations, cuisines, ratings, pricing
 - More detailed **competitor analysis** by region and cuisine.  
 
 ## Screenshot
-**Excel**
-![image](https://github.com/user-attachments/assets/0145328d-4c91-4862-9c22-bc6f91410b16)
+**Excel** ![image](https://github.com/user-attachments/assets/0145328d-4c91-4862-9c22-bc6f91410b16)
+**Power BI** ![image](https://github.com/user-attachments/assets/2e6de614-f19f-4c07-ad57-d8decf9dab89)
+**Tableau** ![image](https://github.com/user-attachments/assets/7f731ff1-9721-4a48-b812-655204d997fe)
 
 
 ## 📧 Contact  
