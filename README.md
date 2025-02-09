@@ -64,12 +64,15 @@ The dataset contains details on restaurant locations, cuisines, ratings, pricing
 - North Indian and Chinese cuisines are customer favorites. 
 - Ratings and pricing significantly influence customer choice
 
-
-
 ## 🚀 Future Enhancements  
 - Integration with **machine learning** to predict restaurant success.  
 - **Sentiment analysis** on reviews to understand customer preferences.  
 - More detailed **competitor analysis** by region and cuisine.  
+
+## Screenshot
+**Excel**
+![image](https://github.com/user-attachments/assets/0145328d-4c91-4862-9c22-bc6f91410b16)
+
 
 ## 📧 Contact  
 For any queries, feel free to reach out to **Rohan Palkar** at **rohanpalkar2000@gmail.com**.  
