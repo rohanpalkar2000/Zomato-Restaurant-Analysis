@@ -1,7 +1,11 @@
 # Zomato Restaurant Analysis  
 
 ## 📌 Overview  
-This project analyzes restaurant data from Zomato across various countries and cities. It provides insights into restaurant distribution, cuisines, pricing, ratings, and sales trends using **Power BI**,**Tableau**, **SQL**, **Excel** for visualization.  
+The Zomato Restaurant Analysis Project examines restaurant data across different cities and regions, focusing on key factors like restaurant locations, cuisine preferences, pricing strategies, and customer satisfaction indicators. The analysis includes essential attributes such as the availability of online delivery, price range, and ratings, providing valuable insights into the operational dynamics of restaurants and customer trends. Temporal data on restaurant openings adds another layer of insights for strategic business planning.
+
+## Problem statement
+Zomato, a leading restaurant aggregator, faces several challenges in optimizing restaurant operations and enhancing customer satisfaction. The key issues include a low average rating (2.89), limited online delivery adoption (25.66%), low table booking availability (12.12%), and geographical concentration of restaurants in specific cities. These factors impact customer experience, revenue growth, and market penetration.
+The objective of this analysis is to identify patterns, trends, and gaps in restaurant performance and provide data-driven recommendations to improve service quality, increase digital adoption, and expand market reach.
 
 ## 📊 Key Metrics  
 - **Total Restaurants:** 9,551  
@@ -41,9 +45,26 @@ This project analyzes restaurant data from Zomato across various countries and c
 The dataset contains details on restaurant locations, cuisines, ratings, pricing, and customer engagement metrics from Zomato.  
 
 ## 🛠 Tools Used  
-- **Power BI:** Data visualization & dashboard creation  
-- **Excel / CSV:** Data processing  
-- **Python / Pandas (Optional):** Data cleaning & preprocessing  
+- **Power BI** 
+- **Excel**  
+- **Tableau** 
+- **SQL**
+
+## Business Implication Strategy
+- Improve Customer Experience
+- Expand Online and Table Booking Services
+- Enhance Market Penetration
+- Optimize Pricing Strategy
+
+
+## Conclusion
+- The Zomato Restaurant Analysis highlights key insights into restaurant distribution, customer preferences, and service gaps.
+- The low average rating and limited adoption of online services suggest an opportunity for restaurants to enhance customer experience and embrace digital transformation. 
+- The inclusion of rating and voting data highlights the importance of customer feedback in maintaining service quality.
+- North Indian and Chinese cuisines are customer favorites. 
+- Ratings and pricing significantly influence customer choice
+
+
 
 ## 🚀 Future Enhancements  
 - Integration with **machine learning** to predict restaurant success.  
