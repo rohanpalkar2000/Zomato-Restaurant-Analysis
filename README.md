@@ -1,4 +1,4 @@
-# Zomato Restaurant Analysis  
+Zomato Restaurant Analysis  
 
 ## 📌 Overview  
 The Zomato Restaurant Analysis Project examines restaurant data across different cities and regions, focusing on key factors like restaurant locations, cuisine preferences, pricing strategies, and customer satisfaction indicators. The analysis includes essential attributes such as the availability of online delivery, price range, and ratings, providing valuable insights into the operational dynamics of restaurants and customer trends. Temporal data on restaurant openings adds another layer of insights for strategic business planning.
