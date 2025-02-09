@@ -1,7 +1,7 @@
 # Zomato Restaurant Analysis  
 
 ## 📌 Overview  
-This project analyzes restaurant data from Zomato across various countries and cities. It provides insights into restaurant distribution, cuisines, pricing, ratings, and sales trends using **Power BI** for visualization.  
+This project analyzes restaurant data from Zomato across various countries and cities. It provides insights into restaurant distribution, cuisines, pricing, ratings, and sales trends using **Power BI**,**Tableau**, **SQL**, **Excel** for visualization.  
 
 ## 📊 Key Metrics  
 - **Total Restaurants:** 9,551  
